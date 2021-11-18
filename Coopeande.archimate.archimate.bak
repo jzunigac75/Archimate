@@ -325,7 +325,7 @@
     <element xsi:type="archimate:SystemSoftware" name="Box" id="id-8bfdff8475e4440c9c95a312517f76e7"/>
     <element xsi:type="archimate:SystemSoftware" name="Share File" id="id-b5e3a48d67aa4eeea48b2bbdb45b7c4b"/>
     <element xsi:type="archimate:Device" name="File Server" id="id-e0ebac0092d34855bd03aeda4db04bcb"/>
-    <element xsi:type="archimate:SystemSoftware" name="Sharepoint" id="id-419224f77dbe4f85865149d26a78416d"/>
+    <element xsi:type="archimate:SystemSoftware" name="Sharepoint Repo" id="id-419224f77dbe4f85865149d26a78416d"/>
     <element xsi:type="archimate:SystemSoftware" name="ISO Tools" id="id-53b316d243804816acbe48684b9b9453"/>
     <element xsi:type="archimate:SystemSoftware" name="Excel" id="id-c9b799d196fb4ea19fa37cd581b72ff1"/>
     <element xsi:type="archimate:SystemSoftware" name="Informática" id="id-86236422593e45528d34a68adbeb7cbe"/>
